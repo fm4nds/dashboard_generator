@@ -1,5 +1,5 @@
 
-# 🚀 Dashboard Generator 
+# 🚀 Dashboard generator 
 
 A data analytics platform built with **Streamlit** and **Plotly**, designed for QA engineers, data analysts, and business intelligence teams.
 
@@ -9,30 +9,32 @@ A data analytics platform built with **Streamlit** and **Plotly**, designed for 
 [![Plotly](https://img.shields.io/badge/Plotly-5.15+-purple.svg)](https://plotly.com/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.24+-orange.svg)](https://numpy.org/)
 
-## 📋 **Installation & Setup**
+![Dashboard-Generator-—-Mozilla-Firefox-2025-08-14-18-35-36 (2)](https://github.com/user-attachments/assets/cff84283-c771-483a-b9de-681a28835cdc)
 
-### **1. Clone Repository**
+## 📋 **Installation & setup**
+
+### **1. Clone repository**
 ```bash
 git clone https://github.com/fm4nds/dashboard-generator.git
 cd dashboard_generator
 ```
 
-### **2. Install Dependencies**
+### **2. Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-### **3. Run Application**
+### **3. Run application**
 ```bash
 streamlit run app.py
 ```
 
-### **4. Access Dashboard**
+### **4. Access dashboard**
 ```
 http://localhost:8501
 ```
 
-## 🧪 **Test File**
+## 🧪 **Test file**
 
 The project includes a test file `test_cats.csv` with cat data for demonstration:
 
